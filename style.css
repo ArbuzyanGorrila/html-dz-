@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+p{
+  
+    font-family: "Dosis", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;  
+    font-size: 24px;
+}
+header{
+    text-align: center;
+    background-color: #66ccff;
+    padding: 0px 0;
+    font-size: 40px;
+}
+header h1{
+    font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+ 
+    
+
+}
+
+body{
+    background-color: #bfc0f5;;
+}
+
+.tablichka{
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 40px;    /* background-color: #bfc0f5; */
+}
+.tablichka td{
+    padding: 15px;
+    text-align: center;
+}
+.kartochka{
+   padding: 10px;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+    text-align: center;
+    padding: 20px;
+    
+}
+.kartochka img{
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+    
+}
+.kartochka h2{
+    margin: 5px 0;
+
+}
+.kartochka p{
+    margin: 0;
+    font-size: 25px;
+    color: black;
+}
+.kart-text{
+    text-align: center;
+}
+#white{
+    background-color: #e1e1ed;
+}
+#white2{
+    background-color: #e1e1ed; 
+    ;
+}
+#white3{
+    background-color: white;
+    
+}
+h2{
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+      
+}
